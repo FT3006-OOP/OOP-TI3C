@@ -123,6 +123,6 @@ Contributions of any kind are welcome!
 
 <p align="center">
 <a href="#"><img src="https://img.shields.io/github/forks/FT3006-OOP/OOP-TI3D?label=fork&style=social"alt="Fork"></a>
-<a href="#"><img src="https://img.shields.io/github/stars/yysofiyan/PABWEB-D.svg" alt="Stars"></a>
+<a href="#"><img src="https://img.shields.io/github/contributors/FT3006-OOP/OOP-TI3C" alt="Stars"></a>
 <a href="#"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
