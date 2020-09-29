@@ -1,7 +1,7 @@
  # Repositori Praktikum Pemrograman Berorientasi Objek
 
 <p align="left">
-<a href="#"><img src="http://hits.dwyl.com/FT3006-OOP/OOP-TI3C.svg"></a>
+<a href="#"><img src="http://hits.dwyl.com/yysofiyan/FT3006-OOP/OOP-TI3C.svg"></a>
 <a href="#"><img src="https://img.shields.io/github/issues-pr/FT3006-OOP/OOP-TI3C?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/github/repo-size/FT3006-OOP/OOP-TI3C?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/github/commit-activity/w/FT3006-OOP/OOP-TI3C?style=flat-square"></a>
@@ -65,50 +65,18 @@ Contoh struktur direktori sebagai *berikut:*
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <!-- Jika anda ingin memasukan Profil di list contributor: cantumkan NAMA LENGKAP,PHOTO ASLI & LINK REPOSITORI ANDA kemudian menirim pull request-->
 <!-- Perhatikan baris kode penulisan contributor dibawah ini -->
+
 <table>
   <tr>
-    <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/34052001?s=460&v=4" width="100px;"
-        alt="" /><br /><sub><b>Yanyan Sofiyan, M.Kom</b></sub></a><br /><a href="https://github.com/yysofiyan" title="Link Repo">🔗</a> <a
-        href="#" title="Documentation">📖</a><a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-    <td align="center"><a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR37MOlMa_TqmLOGCLN7Mlzi4Z_0Fskv4vQqSdUKITUki-it0Zh8RZF8QABe-8iN3t0rMB9C8BmO8epSecvgRlOihFOUGcY21hZAQ&usqp=CAU&ec=45702846"
-        width="100px;" alt="" /><br /><sub><b>NAMA LENGKAP</b></sub></a><br /><a href="#"
-        title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#"title="Talks">📢</a></td>
-    <td align="center"><a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR37MOlMa_TqmLOGCLN7Mlzi4Z_0Fskv4vQqSdUKITUki-it0Zh8RZF8QABe-8iN3t0rMB9C8BmO8epSecvgRlOihFOUGcY21hZAQ&usqp=CAU&ec=45702846" width="100px;"
-        alt="" /><br /><sub><b>NAMA LENGKAP</b></sub></a><br /><a href="" title="Link Repo">🔗</a> <a href="#"
-        title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-    <td align="center"><a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR37MOlMa_TqmLOGCLN7Mlzi4Z_0Fskv4vQqSdUKITUki-it0Zh8RZF8QABe-8iN3t0rMB9C8BmO8epSecvgRlOihFOUGcY21hZAQ&usqp=CAU&ec=45702846"
-        width="100px;" alt="" /><br /><sub><b>NAMA LENGKAP</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a
-        href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-    <td align="center"><a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR37MOlMa_TqmLOGCLN7Mlzi4Z_0Fskv4vQqSdUKITUki-it0Zh8RZF8QABe-8iN3t0rMB9C8BmO8epSecvgRlOihFOUGcY21hZAQ&usqp=CAU&ec=45702846"
-        width="100px;" alt="" /><br /><sub><b>NAMA LENGKAP</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-
-  </tr>
-  <!-- Baris Ke 2 Max 4 user-->
-  <!-- isi profile akun github anda di bawah ini -->
-
-  </tr>
-  <tr>
-    <!-- Baris 2 Max 4 user-->
-   <td align="center"><a href="#"><img
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR37MOlMa_TqmLOGCLN7Mlzi4Z_0Fskv4vQqSdUKITUki-it0Zh8RZF8QABe-8iN3t0rMB9C8BmO8epSecvgRlOihFOUGcY21hZAQ&usqp=CAU&ec=45702846"
-      width="100px;" alt="" /><br /><sub><b>NAMA LENGKAP</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-  </tr>
-    <tr>
-    <!-- Baris ke 3 Max 4 user -->
-    
- <td align="center"><a href="#"><img
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR37MOlMa_TqmLOGCLN7Mlzi4Z_0Fskv4vQqSdUKITUki-it0Zh8RZF8QABe-8iN3t0rMB9C8BmO8epSecvgRlOihFOUGcY21hZAQ&usqp=CAU&ec=45702846"
-        width="100px;" alt="" /><br /><sub><b>NAMA LENGKAP</b></sub></a><br /><a href="#"
-        title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#"
-        title="Talks">📢</a></td>
-
+    <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/34052001?s=460&v=4" width="100px;" alt="" /><br /><sub><b>yysofiyan</b></sub></a><br /><a</a>
+    <td align="center"><a href="#"<a href="https://github.com/FT3006-OOP/OOP-TI3C/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=FT3006-OOP/OOP-TI3C" /></a>
   </tr>
 </table>
 
@@ -116,10 +84,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://allcontributors.org) specification.
-Contributions of any kind are welcome!
-
----
 
 <p align="center">
 <a href="#"><img src="https://img.shields.io/github/forks/FT3006-OOP/OOP-TI3C?label=fork&style=social"alt="Fork"></a>
