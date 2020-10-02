@@ -17,3 +17,5 @@ hero3.health = 1000
 print(hero1)
 print(hero1.__dict__)
 print(hero1.name)
+
+#Keren, Selamat ya sudah berhasil..🐍
