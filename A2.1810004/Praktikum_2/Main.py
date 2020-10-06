@@ -1,7 +1,7 @@
 class Hero:
     pass
 
-hero1 = Hero()
+hero1 = Hero() # object / instance (instansiate)
 hero2 = Hero()
 hero3 = Hero();
 
