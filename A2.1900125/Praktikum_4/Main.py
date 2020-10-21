@@ -12,9 +12,9 @@ class Hero: #template
         print("membuat Hero dengan nama " + inputName)
 
 
-hero1 = Hero("sniper",100, 10, 4)
+hero1 = Hero("zilong",100, 10, 5)
 print(Hero.jumlah)
-hero2 = Hero("mirana",100, 15, 1)
+hero2 = Hero("alucard",500, 20, 3)
 print(Hero.jumlah)
-hero3 = Hero("ucup",1000, 100, 0)
+hero3 = Hero("miya",1000, 50, 5)
 print(Hero.jumlah)

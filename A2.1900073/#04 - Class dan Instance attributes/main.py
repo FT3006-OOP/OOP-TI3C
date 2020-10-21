@@ -1,9 +1,9 @@
 class Hero: #template
-    #class variabel
+    #class variable
     jumlah = 0
 
     def __init__(self,inputName,inputHealth,inputPower,inputArmor):
-        # instance variabel
+        # instance variable
         self.name = inputName
         self.health = inputHealth
         self.power = inputPower
