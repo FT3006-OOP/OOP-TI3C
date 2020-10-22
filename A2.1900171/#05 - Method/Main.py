@@ -23,10 +23,10 @@ class Hero:
         return self.health
 
 
-    hero1 = Hero('sniper', 100, 10, 5)
-    hero2 = Hero('mario bros', 90, 5, 10)
+hero1 = Hero('sniper', 100, 10, 5)
+hero2 = Hero('mario bros', 90, 5, 10)
 
-    hero1.siapa()
-    hero1.healthUp(10)
+hero1.siapa()
+hero1.healthUp(10)
 
-    print(hero1.getHealth()) 
+print(hero1.getHealth())
