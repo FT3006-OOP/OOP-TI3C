@@ -3,4 +3,4 @@ class kendaraan:
 
 mobil = kendaraan()
 
-print (mobil.bahan_bakar) 
+print (mobil.bahan_bakar)

@@ -1,6 +1,13 @@
-class kendaraan:
-    bahan_bakar = "bensin"
+# angka_saya telah kita beri nilai 1945
 
-mobil = kendaraan()
+angka_saya = 1945
 
-print (mobil.bahan_bakar)
+# setelah didefinisikan dan diberi nilai
+# kita bisa mengubah nilainya
+
+angka_saya = 1
+
+# untuk melihat kalau kita telah mengubahnya,
+# kita akan mencetaknya dengan print
+
+print(angka_saya) 

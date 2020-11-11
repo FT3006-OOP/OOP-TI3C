@@ -9,4 +9,4 @@ contoh_perusahaan_yang_menggunakan_bahasa_python = "Youtube, Path, dan lain-lain
 
 belajar_python_oop = True
 
-emang_seru = "Benar" 
+emang_seru = "Benar"

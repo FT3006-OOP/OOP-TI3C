@@ -1,2 +1,2 @@
-class kendaraan(object):
-  bahan_bakar = "bensin"
+Laptop = 2
+print (Laptop)
