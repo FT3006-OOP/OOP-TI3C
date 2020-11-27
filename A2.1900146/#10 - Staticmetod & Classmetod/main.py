@@ -26,7 +26,9 @@ class Hero:
 
 sniper = Hero('sniper')
 print(Hero.getJumlah2())
+
 rikimaru =('rikimaru')
 print(sniper.getJumlah2())
+
 drowranger = Hero('drowranger')
 print(Hero.getJumlah3())
