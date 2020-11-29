@@ -6,7 +6,7 @@ class Hero :
         self.attackPower = attackPower
         self.armorNumber = armorNumber
 
-    def serang(self. lawan):
+    def serang(self.lawan):
         print(self.name + 'kita serang' + lawan.name )
         lawan.kitadiserang(self, self.attackPower)
 
