@@ -1,4 +1,4 @@
-class Hero :
+class Hero:
 
     def __init__(self,name,health,attackPower,armorNumber):
         self.name = name
@@ -6,21 +6,29 @@ class Hero :
         self.attackPower = attackPower
         self.armorNumber = armorNumber
 
-    def serang(self.lawan):
-        print(self.name + 'kita serang' + lawan.name )
-        lawan.kitadiserang(self, self.attackPower)
+    def serang(self, lawan):
+        print(self.name + ' menyerang ' + lawan.name )
+        lawan.diserang(self, self.attackPower)
 
-    def kitadiserang(self, lawan, attackPower_lawan)
-        print(self.name + 'kita di serang' + lawan.name)
+    def diserang(self, lawan, attackPower_lawan):
+        print(self.name + ' diserang ' + lawan.name)
         attack_diterima = attackPower_lawan/self.armorNumber
-        print('serangan terasa : ' + str (attack_diterima))
+        print('serangan terasa : ' + str(attack_diterima))
         self.health -= attack_diterima
-        print('darah ' + self.name + 'tersisa' + str(self.health))
+        print('darah ' + self.name + ' tersisa ' + str(self.health))
 
-chikal = Hero('chikal', 100, 10, 5)
-januar = Hero('januar', 100, 5, 10)
+sniper = Hero('sniper',100,10,5)
+rikimaru = Hero('rikimaru',100,20,10)
 
-chikal.serang(januar)
+sniper.serang(rikimaru)
 print("\n")
-januar.serang(chikal)
-print('\n')
+rikimaru.serang(sniper)
+print("\n")
+rikimaru.serang(sniper)
+print("\n")
+rikimaru.serang(sniper)
+print("\n")
+rikimaru.serang(sniper)
+print("\n")
+rikimaru.serang(sniper)
+print("\n")
