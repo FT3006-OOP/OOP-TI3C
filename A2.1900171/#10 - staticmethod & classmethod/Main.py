@@ -1,6 +1,6 @@
 class Hero:
 
-    # private class variabel
+    #private class variabel
     __jumlah = 0;
 
     def __init__(self,name):
@@ -15,7 +15,7 @@ class Hero:
     def getJumlah1():
         return Hero.__jumlah
 
-    # method static (decorator) nempel ke objek dan kelas
+    # method static (decorator) nempel ke objek dan celass
     @staticmethod
     def getJumlah2():
         return Hero.__jumlah
