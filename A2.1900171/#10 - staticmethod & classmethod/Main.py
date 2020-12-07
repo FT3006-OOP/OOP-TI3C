@@ -15,7 +15,7 @@ class Hero:
     def getJumlah1():
         return Hero.__jumlah
 
-    # method static (decorator) nempel ke objek dan celass
+    # method static (decorator) nempel ke objek dan class
     @staticmethod
     def getJumlah2():
         return Hero.__jumlah
