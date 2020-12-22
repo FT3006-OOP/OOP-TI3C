@@ -1,13 +1,13 @@
 class Hero:
 
-    #private class variabel
+    #private class variable
     __jumlah = 0;
 
     def __init__(self,name):
         self.__name = name
         Hero.__jumlah += 1
 
-    # method ini hanya berlaku untuk objek
+    # method ini yang berlaku untuk objek
     def getJumlah(self):
         return Hero.__jumlah
 
@@ -15,18 +15,18 @@ class Hero:
     def getJumlah1():
         return Hero.__jumlah
 
-    # method static (decorator) nempel ke objek dan celass
+    # method static (decorator) nempel ke objek dan class
     @staticmethod
     def getJumlah2():
         return Hero.__jumlah
 
-    @classmethod
+    @staticmethod
     def getJumlah3(cls):
         return cls.__jumlah
 
 sniper = Hero('sniper')
-print(Hero.getJumlah())
+print(Hero.getJumlah2())
 rikimaru = Hero('rikimaru')
 print(sniper.getJumlah2())
 drowranger = Hero('drowranger')
-print(Hero.getJumlah())
+print(Hero.getJumlah3())
