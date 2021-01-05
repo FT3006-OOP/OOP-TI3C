@@ -1,4 +1,4 @@
-**Nama    : Ahmad Al-Faruq**
+**Nama    : Ahmad Al Faruq**
 **NIM     : A2.1900010**
 **Kelas   : TI-3C**
 
