@@ -1,6 +1,6 @@
-Nama  : Sony Solahudin Aburachman
-Kelas : TI-3C
-NIM   : A2.19000171
+**Nama  : Sony Solahudin Aburachman**
+**Kelas : TI-3C**
+**NIM   : A2.1900171**
 
 1. Apa itu class ?
    # Class adalah salah satu cara bagaimana kita membuat sebuah kode yang mempunyai behaviour tertentu dan lebih mudah dalam mengorganisasi berbagai fungsi dan state-nya.
@@ -11,8 +11,8 @@ NIM   : A2.19000171
 4. Apa sintaks Phyton yang digunakan untuk menentukan class baru ?
    # Memulai dengan _class_ kata kunci untuk menunjukkan bahwa Anda menciptakan sebuah _class_, maka Anda menambahkan nama _class_ menggunakan notasi CamelCase , dimulai dengan huruf kapital.
     # contoh sintak
-       # class Dog: 
-            # pass
+        class Dog: 
+            pass
 5. Apa konvensi ejaan untuk nama class ?
    # CamelCase notasi, dimulai dengan huruf kapital — yaitu, PythonclassName()
 6. Bagaimana Anda memberi instance, atau membuat instance dari, sebuah class ?
