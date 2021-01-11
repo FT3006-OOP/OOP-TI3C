@@ -1,6 +1,6 @@
 1.class adalah mekanisme yang digunakan untuk membuat struktur data pengguna baru yang ditentukan. Ini berisi data serta metode yang digunakan untuk memproses data tersebut.
 
-2.Instance adalah salinan class dengan nilai sebenarnya , secara harfiah merupakan objek class tertentu.
+2.Instance adalah sali.nan class dengan nilai sebenarnya , secara harfiah merupakan objek class tertentu.
 
 3.Sementara class adalah cetak biru yang digunakan untuk menggambarkan bagaimana membuat sesuatu, instance adalah objek yang dibuat dari cetak biru tersebut.
 
